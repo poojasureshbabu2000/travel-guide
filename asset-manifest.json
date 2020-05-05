@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/travel-guide/static/css/main.20bbd0b0.chunk.css",
+    "main.js": "/travel-guide/static/js/main.2a5b354e.chunk.js",
+    "main.js.map": "/travel-guide/static/js/main.2a5b354e.chunk.js.map",
+    "runtime-main.js": "/travel-guide/static/js/runtime-main.9f87cdd6.js",
+    "runtime-main.js.map": "/travel-guide/static/js/runtime-main.9f87cdd6.js.map",
+    "static/css/2.ac371783.chunk.css": "/travel-guide/static/css/2.ac371783.chunk.css",
+    "static/js/2.af0794d8.chunk.js": "/travel-guide/static/js/2.af0794d8.chunk.js",
+    "static/js/2.af0794d8.chunk.js.map": "/travel-guide/static/js/2.af0794d8.chunk.js.map",
+    "index.html": "/travel-guide/index.html",
+    "precache-manifest.37e3a4f642b55a75a02407f2da61eb40.js": "/travel-guide/precache-manifest.37e3a4f642b55a75a02407f2da61eb40.js",
+    "service-worker.js": "/travel-guide/service-worker.js",
+    "static/css/2.ac371783.chunk.css.map": "/travel-guide/static/css/2.ac371783.chunk.css.map",
+    "static/css/main.20bbd0b0.chunk.css.map": "/travel-guide/static/css/main.20bbd0b0.chunk.css.map",
+    "static/js/2.af0794d8.chunk.js.LICENSE.txt": "/travel-guide/static/js/2.af0794d8.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/travel-guide/static/media/BaganMyanmar.3b735d9e.jpg",
+    "static/media/Globe.svg": "/travel-guide/static/media/Globe.d8c3acbd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f87cdd6.js",
+    "static/css/2.ac371783.chunk.css",
+    "static/js/2.af0794d8.chunk.js",
+    "static/css/main.20bbd0b0.chunk.css",
+    "static/js/main.2a5b354e.chunk.js"
+  ]
+}
